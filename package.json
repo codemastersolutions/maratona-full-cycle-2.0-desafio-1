@@ -1,0 +1,19 @@
+{
+  "name": "maratona-fullcycle-desafio-1",
+  "version": "1.0.0",
+  "description": "Desafio 1 - Maratona Full Cycle 2.0 - Code Education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemastersolutions/maratona-full-cycle-2.0-desafio-1.git"
+  },
+  "author": "Gilson Gabriel <gilson@codemastersolucoes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemastersolutions/maratona-full-cycle-2.0-desafio-1/issues"
+  },
+  "homepage": "https://github.com/codemastersolutions/maratona-full-cycle-2.0-desafio-1#readme"
+}
